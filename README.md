@@ -2,7 +2,7 @@
 
 ### Welcome to my github!
 
-## 💻 Lanuages and Databases Known 
+## Languages and Databases 
 ![My GitHub stats](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![My GitHub stats](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![My GitHub stats](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -25,7 +25,6 @@
 
 ## You can follow me here as well
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8?style=for-the-badge&logo=appveyor)](https://www.linkedin.com/in/francois-laliberte-d-avignon-a0250826a/)
-
 
 
 [![François's GitHub stats](https://github-readme-stats.vercel.app/api?username=francoislalibertedavignon&theme=blue-green)](https://github.com/francoislalibertedavignon/github-readme-stats)
