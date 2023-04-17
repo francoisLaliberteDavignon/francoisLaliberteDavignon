@@ -2,6 +2,10 @@
 
 ### Welcome to my github!
 
+Recently graduated from Concordia's web developement bootcamp!
+Here you can see my final Project ###MemoMinder
+
+
 ## Languages and Databases 
 ![My GitHub stats](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![My GitHub stats](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
