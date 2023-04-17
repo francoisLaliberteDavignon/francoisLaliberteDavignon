@@ -1,6 +1,11 @@
 ![License: MIT v3](https://img.shields.io/badge/Developer-FullStack-red.svg)
-[![François' GitHub stats](https://github-readme-stats.vercel.app/api?username=francoislalibertedavignon)](https://github.com/francoislalibertedavignon/github-readme-stats)
+
 ### Welcome to my github!
+
+
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
