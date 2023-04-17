@@ -1,4 +1,7 @@
-### Hi there 👋
+![License: MIT v3](https://img.shields.io/badge/Developer-FullStack-red.svg)
+[![François' GitHub stats](https://github-readme-stats.vercel.app/api?username=francoislalibertedavignon)](https://github.com/francoislalibertedavignon/github-readme-stats)
+### Welcome to my github!
+
 
 <!--
 **francoisLaliberteDavignon/francoisLaliberteDavignon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
